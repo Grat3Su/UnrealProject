@@ -1,4 +1,4 @@
-﻿Log file open, 09/03/19 14:09:21
+﻿Log file open, 09/03/19 17:35:35
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,19 +10,10 @@ LogInit: Display: Running engine for game: SideScrollGame1
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.696020
+LogStats: Stats thread started at 0.266783
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/Game.ini]
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/Input.ini]
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini]
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini]
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini]
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/Hardware.ini]
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini]
 LogPluginManager: Mounting plugin Paper2D
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/Paper2D.ini]
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin ActorLayerUtilities
@@ -60,7 +51,6 @@ LogPluginManager: Mounting plugin HTML5Networking
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin MagicLeap
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/MagicLeap.ini]
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
@@ -73,7 +63,6 @@ LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin ActorSequence
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/ActorSequence.ini]
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin NetcodeUnitTest
@@ -94,7 +83,6 @@ LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/ExampleDeviceProfileSelector.ini]
 LogPluginManager: Mounting plugin Firebase
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
@@ -103,7 +91,6 @@ LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin PhysXVehicles
-LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Config/CoalescedSourceConfigs/PhysXVehicles.ini]
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
@@ -169,420 +156,472 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.09.03-05.09.23:328][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.09.03-05.09.23:328][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.09.03-05.09.23:328][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
-[2019.09.03-05.09.23:328][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.09.03-05.09.23:328][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
-[2019.09.03-05.09.23:328][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
-[2019.09.03-05.09.23:328][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.09.03-05.09.23:328][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.09.03-05.09.23:328][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.09.03-05.09.23:328][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.09.03-05.09.23:328][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.09.03-05.09.23:328][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.09.03-05.09.23:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
-[2019.09.03-05.09.23:329][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
-[2019.09.03-05.09.23:339][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.09.03-05.09.23:339][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.09.03-05.09.23:340][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.09.03-05.09.23:340][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.09.03-05.09.23:340][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.09.03-05.09.23:340][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.09.03-05.09.23:340][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.09.03-05.09.23:340][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:340][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.09.03-05.09.23:340][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.09.03-05.09.23:340][  0]LogInit: Selected Device Profile: [Windows]
-[2019.09.03-05.09.23:340][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.09.03-05.09.23:389][  0]LogHAL: Display: Platform has ~ 16 GB [17118666752 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2019.09.03-05.09.23:389][  0]LogInit: Going up to parent DeviceProfile []
-[2019.09.03-05.09.23:389][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.09.03-05.09.23:389][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.09.03-05.09.23:390][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
-[2019.09.03-05.09.23:390][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.09.03-05.09.23:390][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.09.03-05.09.23:390][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.09.03-05.09.23:399][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.09.03-05.09.23:399][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2019.09.03-05.09.23:399][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
-[2019.09.03-05.09.23:400][  0]LogInit: Computer: DESKTOP-EJATTSS
-[2019.09.03-05.09.23:400][  0]LogInit: User: 403
-[2019.09.03-05.09.23:400][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.09.03-05.09.23:400][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2019.09.03-05.09.23:400][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2019.09.03-05.09.23:400][  0]LogMemory: Platform Memory Stats for Windows
-[2019.09.03-05.09.23:400][  0]LogMemory: Process Physical Memory: 100.64 MB used, 100.65 MB peak
-[2019.09.03-05.09.23:400][  0]LogMemory: Process Virtual Memory: 90.73 MB used, 90.73 MB peak
-[2019.09.03-05.09.23:400][  0]LogMemory: Physical Memory: 7074.15 MB used,  9251.48 MB free, 16325.63 MB total
-[2019.09.03-05.09.23:400][  0]LogMemory: Virtual Memory: 4644.39 MB used,  134213080.00 MB free, 134217728.00 MB total
-[2019.09.03-05.09.23:898][  0]LogInit: Overriding language with editor language configuration option (en).
-[2019.09.03-05.09.23:898][  0]LogInit: Overriding locale with editor culture configuration option ().
-[2019.09.03-05.09.23:898][  0]LogInit: Using OS detected locale (ko-KR).
-[2019.09.03-05.09.24:615][  0]LogInit: Setting process to per monitor DPI aware
-[2019.09.03-05.09.25:167][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.09.03-05.09.25:167][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.09.03-05.09.29:543][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.09.03-05.09.29:543][  0]LogD3D11RHI: D3D11 adapters:
-[2019.09.03-05.09.29:623][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
-[2019.09.03-05.09.29:623][  0]LogD3D11RHI:       2007/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2019.09.03-05.09.29:642][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.09.03-05.09.29:642][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.09.03-05.09.29:642][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.09.03-05.09.29:651][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.09.03-05.09.29:651][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
-[2019.09.03-05.09.29:651][  0]LogWindows: EnumDisplayDevices:
-[2019.09.03-05.09.29:651][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
-[2019.09.03-05.09.29:652][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
-[2019.09.03-05.09.29:653][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
-[2019.09.03-05.09.29:654][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
-[2019.09.03-05.09.29:655][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2019.09.03-05.09.29:655][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
-[2019.09.03-05.09.29:655][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
-[2019.09.03-05.09.29:655][  0]LogD3D11RHI:      Driver Date: 3-23-2018
-[2019.09.03-05.09.29:655][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
-[2019.09.03-05.09.29:715][  0]LogD3D11RHI: Async texture creation enabled
-[2019.09.03-05.09.29:719][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.09.03-05.09.29:720][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.09.03-05.09.29:720][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.09.03-05.09.29:732][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2019.09.03-05.09.33:404][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2019.09.03-05.09.33:418][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2019.09.03-05.09.33:431][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2019.09.03-05.09.33:444][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2019.09.03-05.09.33:540][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2019.09.03-05.09.33:572][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2019.09.03-05.09.33:587][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2019.09.03-05.09.33:601][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2019.09.03-05.09.33:609][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2019.09.03-05.09.33:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2019.09.03-05.09.33:797][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2019.09.03-05.09.33:929][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2019.09.03-05.09.33:929][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2019.09.03-05.09.33:967][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2019.09.03-05.09.33:967][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2019.09.03-05.09.33:992][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2019.09.03-05.09.34:005][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2019.09.03-05.09.34:031][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2019.09.03-05.09.34:077][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2019.09.03-05.09.34:143][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2019.09.03-05.09.34:143][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2019.09.03-05.09.34:143][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.09.03-05.09.34:352][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2019.09.03-05.09.34:814][  0]LogShaderCompilers: Guid format shader working directory is -54 characters bigger than the processId version (../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Shaders/WorkingDirectory/3396/).
-[2019.09.03-05.09.34:815][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/403/AppData/Local/Temp/UnrealShaderWorkingDir/9325E57446A95CD52CE7A1889CEA1C05/'.
-[2019.09.03-05.09.34:817][  0]LogXGEController: Cleaning working directory: C:/Users/403/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2019.09.03-05.09.34:817][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.09.03-05.09.34:817][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.09.03-05.09.34:817][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.09.03-05.09.37:544][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.09.03-05.09.38:289][  0]LogDerivedDataCache: Loaded boot cache 0.74s 71MB C:/Users/403/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.09.03-05.09.38:289][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/403/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2019.09.03-05.09.38:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.09.03-05.09.38:289][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.09.03-05.09.38:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.09.03-05.09.38:289][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.09.03-05.09.38:329][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.09.03-05.09.38:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.09.03-05.09.38:329][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.09.03-05.09.38:352][  0]LogDerivedDataCache: Using Local data cache path C:/Users/403/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.09.03-05.09.38:352][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.09.03-05.09.38:352][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.09.03-05.09.38:373][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.09.03-05.09.38:373][  0]LogSlate: Using FreeType 2.6.0
-[2019.09.03-05.09.38:433][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.09.03-05.09.40:338][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
-[2019.09.03-05.09.40:851][  0]LogInit: Selected Device Profile: [Windows]
-[2019.09.03-05.09.42:718][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.09.03-05.09.42:718][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2019.09.03-05.09.42:718][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.09.03-05.09.42:718][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2019.09.03-05.09.42:718][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2019.09.03-05.09.43:015][  0]LogNetVersion: SideScrollGame1 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2152153084)
-[2019.09.03-05.09.49:050][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.082457 seconds
-[2019.09.03-05.09.49:057][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
-[2019.09.03-05.09.49:057][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
-[2019.09.03-05.09.49:057][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.09.03-05.10.17:670][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/CachedAssetRegistry.bin
-[2019.09.03-05.10.18:825][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.09.03-05.10.18:840][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.09.03-05.10.19:266][  0]SourceControl: Source control is disabled
-[2019.09.03-05.10.19:266][  0]SourceControl: Source control is disabled
-[2019.09.03-05.10.19:358][  0]SourceControl: Source control is disabled
-[2019.09.03-05.10.19:361][  0]SourceControl: Source control is disabled
-[2019.09.03-05.10.20:090][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.09.03-05.10.21:194][  0]LogOcInput: OculusInput pre-init called
-[2019.09.03-05.10.22:529][  0]LogEngine: Initializing Engine...
-[2019.09.03-05.10.22:530][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.09.03-05.10.22:531][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2019.09.03-05.10.23:426][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.09.03-05.10.23:509][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.09.03-05.10.24:191][  0]LogInit: XAudio2 using '스피커(3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2019.09.03-05.10.24:273][  0]LogInit: FAudioDevice initialized.
-[2019.09.03-05.10.24:274][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.09.03-05.10.24:504][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/403/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.09.03-05.10.24:509][  0]LogInit: Texture streaming: Enabled
-[2019.09.03-05.10.24:671][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.09.03-05.10.25:223][  0]LogInit: Transaction tracking system initialized
-[2019.09.03-05.10.25:495][  0]BlueprintLog: New page: Editor Load
-[2019.09.03-05.10.26:930][  0]LocalizationService: Localization service is disabled
-[2019.09.03-05.10.32:560][  0]LogFileCache: Scanning file cache for directory 'C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/' took 0.06s
-[2019.09.03-05.10.32:560][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.09.03-05.10.32:560][  0]LogCook: Display: Mobile HDR setting 1
-[2019.09.03-05.10.38:789][  0]SourceControl: Source control is disabled
-[2019.09.03-05.10.38:789][  0]LightingResults: New page: Lighting Build
-[2019.09.03-05.10.38:811][  0]MapCheck: New page: Map Check
-[2019.09.03-05.10.38:812][  0]LightingResults: New page: Lighting Build
-[2019.09.03-05.10.38:835][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
-[2019.09.03-05.10.40:900][  0]LogStaticMesh: Building static mesh Floor_400x400...
-[2019.09.03-05.10.41:000][  0]LogStaticMesh: Built static mesh [0.10s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
-[2019.09.03-05.10.41:761][  0]LogAIModule: Creating AISystem for world Minimal_Default
-[2019.09.03-05.10.42:079][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.09.03-05.10.42:104][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
-[2019.09.03-05.10.42:105][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.09.03-05.10.42:105][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
-[2019.09.03-05.10.42:105][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.316
-[2019.09.03-05.10.42:883][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.03-05.10.42:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.03-05.10.42:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.03-05.10.42:905][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.09.03-05.10.43:041][  0]LogCollectionManager: Loaded 0 collections in 0.001716 seconds
-[2019.09.03-05.10.43:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Collections/' took 0.01s
-[2019.09.03-05.10.43:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/Developers/403/Collections/' took 0.01s
-[2019.09.03-05.10.43:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/Collections/' took 0.01s
-[2019.09.03-05.10.43:218][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2019.09.03-05.10.43:227][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2732 classes and 659 folders.
-[2019.09.03-05.10.43:427][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.09.03-05.10.43:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:544][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.44:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.09.03-05.10.45:879][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.09.03-05.10.45:924][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2019.09.03-05.10.46:099][  0]LogSlate: Took 0.096212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.09.03-05.10.46:181][  0]LogSlate: Took 0.079506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.09.03-05.10.46:242][  0]LogSlate: Took 0.040081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.09.03-05.10.46:839][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
-[2019.09.03-05.10.47:060][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.09.03-05.10.47:060][  0]LogLoad: (Engine Initialization) Total time: 99.06 seconds
-[2019.09.03-05.10.47:060][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.09.03-05.10.47:121][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.09.03-05.10.47:409][  0]LogSlate: Took 0.176255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.09.03-05.10.47:507][  1]LogAssetRegistry: Asset discovery search completed in 67.1912 seconds
-[2019.09.03-05.10.47:510][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2019.09.03-05.10.47:510][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
-[2019.09.03-05.10.48:474][  4]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.09.03-06.15.48:154][ 70]LogHttp: Warning: 000001796667FB00: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2B97D5A-4118-A42C-10F2-E395F920B798%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=b0cbbcf54d7ed28d2f1250bbf6281759%7C8fd6d4eddfa74f93adf3ca410949eaaf%7C3aad50cc-9260-48f3-bc0c-2183c95e1d20&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
-[2019.09.03-06.15.48:154][ 70]LogHttp: Warning: 000001796667FB00 Response Header Server: awselb/2.0
-[2019.09.03-06.15.48:155][ 70]LogHttp: Warning: 000001796667FB00 Response Header Date: Tue, 03 Sep 2019 06:15:47 GMT
-[2019.09.03-06.15.48:155][ 70]LogHttp: Warning: 000001796667FB00 Response Header Content-Type: text/html
-[2019.09.03-06.15.48:155][ 70]LogHttp: Warning: 000001796667FB00 Response Header Content-Length: 138
-[2019.09.03-06.15.48:155][ 70]LogHttp: Warning: 000001796667FB00 Response Header Connection: keep-alive
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
+[2019.09.03-08.35.35:755][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.03-08.35.35:755][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
+[2019.09.03-08.35.35:755][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.03-08.35.35:756][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
+[2019.09.03-08.35.35:756][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
+[2019.09.03-08.35.35:762][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.03-08.35.35:762][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.03-08.35.35:763][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.03-08.35.35:763][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.03-08.35.35:763][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.03-08.35.35:774][  0]LogHAL: Display: Platform has ~ 16 GB [17118666752 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.03-08.35.35:774][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.03-08.35.35:774][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.03-08.35.35:774][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.03-08.35.35:775][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.03-08.35.35:776][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Config/Windows/Engine.ini]
+[2019.09.03-08.35.35:776][  0]LogInit: Computer: DESKTOP-EJATTSS
+[2019.09.03-08.35.35:776][  0]LogInit: User: 403
+[2019.09.03-08.35.35:776][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.03-08.35.35:776][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.03-08.35.35:776][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.03-08.35.35:776][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.03-08.35.35:776][  0]LogMemory: Process Physical Memory: 98.08 MB used, 98.09 MB peak
+[2019.09.03-08.35.35:776][  0]LogMemory: Process Virtual Memory: 90.61 MB used, 90.61 MB peak
+[2019.09.03-08.35.35:776][  0]LogMemory: Physical Memory: 7621.12 MB used,  8704.51 MB free, 16325.63 MB total
+[2019.09.03-08.35.35:776][  0]LogMemory: Virtual Memory: 4643.84 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.09.03-08.35.35:803][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.09.03-08.35.35:803][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.09.03-08.35.35:803][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.09.03-08.35.35:966][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.03-08.35.36:039][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.03-08.35.36:039][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.03-08.35.36:286][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.03-08.35.36:286][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.03-08.35.36:339][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.09.03-08.35.36:339][  0]LogD3D11RHI:       2007/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.03-08.35.36:343][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.03-08.35.36:343][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.03-08.35.36:343][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.03-08.35.36:349][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.03-08.35.36:349][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.03-08.35.36:349][  0]LogWindows: EnumDisplayDevices:
+[2019.09.03-08.35.36:349][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2019.09.03-08.35.36:350][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.09.03-08.35.36:351][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.09.03-08.35.36:352][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.09.03-08.35.36:352][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.03-08.35.36:352][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.09.03-08.35.36:352][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2019.09.03-08.35.36:352][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2019.09.03-08.35.36:352][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.09.03-08.35.36:379][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.03-08.35.36:382][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.03-08.35.36:382][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.03-08.35.36:382][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.03-08.35.36:395][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.03-08.35.37:104][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.03-08.35.37:120][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.03-08.35.37:133][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.03-08.35.37:147][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.03-08.35.37:161][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.03-08.35.37:173][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.03-08.35.37:192][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.03-08.35.37:207][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.03-08.35.37:214][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.03-08.35.37:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.03-08.35.37:306][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.03-08.35.37:360][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.03-08.35.37:360][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.03-08.35.37:382][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.03-08.35.37:382][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.03-08.35.37:394][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.03-08.35.37:406][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.03-08.35.37:417][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.03-08.35.37:429][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.03-08.35.37:474][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.03-08.35.37:474][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.03-08.35.37:474][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.03-08.35.37:483][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.03-08.35.37:536][  0]LogShaderCompilers: Guid format shader working directory is -54 characters bigger than the processId version (../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Intermediate/Shaders/WorkingDirectory/6760/).
+[2019.09.03-08.35.37:536][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/403/AppData/Local/Temp/UnrealShaderWorkingDir/D807CF4D48CD5209B8FEBCA35FDD65D7/'.
+[2019.09.03-08.35.37:538][  0]LogXGEController: Cleaning working directory: C:/Users/403/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.03-08.35.37:538][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.03-08.35.37:538][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.03-08.35.37:538][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.03-08.35.38:104][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.03-08.35.38:152][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/403/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.03-08.35.38:152][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/403/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.03-08.35.38:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.03-08.35.38:152][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.03-08.35.38:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.03-08.35.38:152][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.03-08.35.38:164][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.03-08.35.38:164][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.03-08.35.38:164][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.03-08.35.38:183][  0]LogDerivedDataCache: Using Local data cache path C:/Users/403/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.03-08.35.38:183][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.03-08.35.38:183][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.03-08.35.38:205][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.03-08.35.38:206][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.03-08.35.38:207][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.03-08.35.38:311][  0]LogAssetRegistry: FAssetRegistry took 0.0367 seconds to start up
+[2019.09.03-08.35.38:638][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.03-08.35.38:778][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.03-08.35.38:778][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.03-08.35.38:778][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.03-08.35.38:778][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.03-08.35.38:778][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.03-08.35.38:788][  0]LogNetVersion: SideScrollGame1 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2152153084)
+[2019.09.03-08.35.39:177][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.048145 seconds
+[2019.09.03-08.35.39:183][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.03-08.35.39:183][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.03-08.35.39:183][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.03-08.35.40:153][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.03-08.35.40:166][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.03-08.35.40:281][  0]SourceControl: Source control is disabled
+[2019.09.03-08.35.40:281][  0]SourceControl: Source control is disabled
+[2019.09.03-08.35.40:282][  0]SourceControl: Source control is disabled
+[2019.09.03-08.35.40:283][  0]SourceControl: Source control is disabled
+[2019.09.03-08.35.40:405][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.03-08.35.41:090][  0]LogOcInput: OculusInput pre-init called
+[2019.09.03-08.35.41:787][  0]LogEngine: Initializing Engine...
+[2019.09.03-08.35.41:787][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.03-08.35.41:788][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.03-08.35.42:027][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.03-08.35.42:043][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.03-08.35.42:440][  0]LogInit: XAudio2 using '스피커(3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.03-08.35.42:520][  0]LogInit: FAudioDevice initialized.
+[2019.09.03-08.35.42:520][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.03-08.35.42:722][  0]LogDerivedDataCache: Saved boot cache 0.20s 71MB C:/Users/403/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.03-08.35.42:728][  0]LogInit: Texture streaming: Enabled
+[2019.09.03-08.35.42:749][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.03-08.35.42:769][  0]LogInit: Transaction tracking system initialized
+[2019.09.03-08.35.42:793][  0]BlueprintLog: New page: Editor Load
+[2019.09.03-08.35.42:886][  0]LocalizationService: Localization service is disabled
+[2019.09.03-08.35.43:189][  0]LogFileCache: Scanning file cache for directory 'C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/' took 0.02s
+[2019.09.03-08.35.43:189][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.03-08.35.43:189][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.03-08.35.43:388][  0]SourceControl: Source control is disabled
+[2019.09.03-08.35.43:388][  0]LightingResults: New page: Lighting Build
+[2019.09.03-08.35.43:391][  0]MapCheck: New page: Map Check
+[2019.09.03-08.35.43:391][  0]LightingResults: New page: Lighting Build
+[2019.09.03-08.35.43:414][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.09.03-08.35.43:628][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.09.03-08.35.43:635][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.03-08.35.43:657][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.09.03-08.35.43:657][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.03-08.35.43:658][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2019.09.03-08.35.43:658][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.270
+[2019.09.03-08.35.43:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-08.35.43:772][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-08.35.43:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-08.35.43:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-08.35.43:790][  0]LogCollectionManager: Loaded 0 collections in 0.001421 seconds
+[2019.09.03-08.35.43:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/Collections/' took 0.01s
+[2019.09.03-08.35.43:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/Developers/403/Collections/' took 0.01s
+[2019.09.03-08.35.43:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/Collections/' took 0.00s
+[2019.09.03-08.35.43:817][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.03-08.35.43:825][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2732 classes and 659 folders.
+[2019.09.03-08.35.43:830][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.03-08.35.43:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.03-08.35.43:880][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.03-08.35.43:888][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.09.03-08.35.43:903][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.03-08.35.43:905][  0]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.03-08.35.43:911][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.03-08.35.43:986][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.09.03-08.35.44:086][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.03-08.35.44:086][  0]LogLoad: (Engine Initialization) Total time: 10.17 seconds
+[2019.09.03-08.35.44:086][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.03-08.35.44:124][  0]LogAssetRegistry: Asset discovery search completed in 5.8354 seconds
+[2019.09.03-08.35.44:127][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.03-08.35.44:127][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2019.09.03-08.35.44:128][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.03-08.35.44:162][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.03-08.35.46:289][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.03-08.35.47:658][404]LogSlate: Took 0.033487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.03-08.35.47:764][404]LogAIModule: Creating AISystem for world AnimTutorial1
+[2019.09.03-08.35.47:772][404]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/AnimTutorial1.AnimTutorial1
+[2019.09.03-08.35.47:795][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.09.03-08.35.47:796][404]Cmd: MAP LOAD FILE="../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/Maps/AnimTutorial1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.03-08.35.47:796][404]LightingResults: New page: Lighting Build
+[2019.09.03-08.35.47:796][404]LoadErrors: New page: Loading map: AnimTutorial1.umap
+[2019.09.03-08.35.47:797][404]MapCheck: New page: Map Check
+[2019.09.03-08.35.47:797][404]LightingResults: New page: Lighting Build
+[2019.09.03-08.35.47:817][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.09.03-08.35.47:820][404]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.03-08.35.47:840][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.09.03-08.35.47:858][404]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.03-08.35.47:858][404]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2019.09.03-08.35.47:858][404]LogFileHelpers: Loading map 'AnimTutorial1' took 0.063
+[2019.09.03-08.35.48:504][474]LogAIModule: Creating AISystem for world MoveCubeActor
+[2019.09.03-08.35.48:507][474]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MoveCubeActor.MoveCubeActor
+[2019.09.03-08.35.48:526][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.09.03-08.35.48:527][474]Cmd: MAP LOAD FILE="../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/Maps/MoveCubeActor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.03-08.35.48:527][474]LightingResults: New page: Lighting Build
+[2019.09.03-08.35.48:528][474]LoadErrors: New page: Loading map: MoveCubeActor.umap
+[2019.09.03-08.35.48:528][474]MapCheck: New page: Map Check
+[2019.09.03-08.35.48:528][474]LightingResults: New page: Lighting Build
+[2019.09.03-08.35.48:552][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.09.03-08.35.48:556][474]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.03-08.35.48:578][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.09.03-08.35.48:596][474]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.03-08.35.48:596][474]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2019.09.03-08.35.48:596][474]LogFileHelpers: Loading map 'MoveCubeActor' took 0.069
+[2019.09.03-08.35.49:708][601]LogAIModule: Creating AISystem for world AnimTutorial1
+[2019.09.03-08.35.49:711][601]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/AnimTutorial1.AnimTutorial1
+[2019.09.03-08.35.49:729][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.09.03-08.35.49:730][601]Cmd: MAP LOAD FILE="../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/Maps/AnimTutorial1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.03-08.35.49:730][601]LightingResults: New page: Lighting Build
+[2019.09.03-08.35.49:730][601]LoadErrors: New page: Loading map: AnimTutorial1.umap
+[2019.09.03-08.35.49:731][601]MapCheck: New page: Map Check
+[2019.09.03-08.35.49:731][601]LightingResults: New page: Lighting Build
+[2019.09.03-08.35.49:753][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.09.03-08.35.49:755][601]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.03-08.35.49:774][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.09.03-08.35.49:794][601]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.03-08.35.49:794][601]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2019.09.03-08.35.49:794][601]LogFileHelpers: Loading map 'AnimTutorial1' took 0.065
+[2019.09.03-08.36.02:554][120]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.03-08.36.04:087][120]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2019.09.03-08.36.04:179][120]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.09.03-08.36.08:895][120]LogAIModule: Creating AISystem for world StarterMap
+[2019.09.03-08.36.09:091][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.09.03-08.36.11:464][120]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.03-08.36.11:602][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.09.03-08.36.11:621][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.09.03-08.36.11:643][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.09.03-08.36.11:665][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.03-08.36.11:685][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.03-08.36.11:709][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.03-08.36.11:733][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.09.03-08.36.11:753][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.03-08.36.15:211][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.09.03-08.36.15:317][508]LogSavePackage: Moving '../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/AnimTutorial1F66A3B0F478C9085D86D8B8EF397C2DB.tmp' to '../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/Maps/AnimTutorial1.umap'
+[2019.09.03-08.36.15:526][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.09.03-08.36.15:654][523]LogSavePackage: Moving '../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Saved/AnimTutorial1AC370D5C45E6424B7A17AB8FB7F73107.tmp' to '../../../../../../Users/403/Desktop/UnrealProject/SideScrollGame8 - Importing Character Model 4.22/Content/Maps/AnimTutorial1.umap'
